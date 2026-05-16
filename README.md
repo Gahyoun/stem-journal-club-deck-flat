@@ -1,6 +1,6 @@
 # STEM Journal-Club Deck Builder
 
-A skill (for Claude) / prompt (for Gemini) that co-produces academic paper presentation decks through a structured iteration loop.
+A skill (for Claude and OpenAI) / prompt (for Gemini Deep research) that co-produces academic paper presentation decks through a structured iteration loop.
 
 Built for STEM journal clubs: methodology-heavy, reference-based, design-disciplined. Operates as a senior researcher with 15+ years of design and methodological judgment.
 
@@ -304,6 +304,6 @@ PRs welcome. Especially useful contributions:
 
 This skill, including all instructions, scripts, and templates, is released under GPL v3. Outputs you generate from your own papers belong to you.
 
-> *Author's note: the maintainer's alma mater is **G**yeongsang **N**ational **U**niversity (경상국립대학교), abbreviated locally as **GNU**. Choosing the GNU GPL is a small wink to that.* 🐂
+> * There aren't any significant restrictions; it's just that Gahyoun Gim graduated from GNU (Gyeongsang National University) and is distributing it under the GNU license :D* 🐂
 
 If GPL doesn't fit your use case (e.g., embedding in proprietary tooling), feel free to open an issue to discuss a dual-license arrangement.
